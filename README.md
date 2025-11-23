@@ -108,4 +108,6 @@
 
 ## 15. <a name="supplemental">Supplemental Resources</a>
 
-(TODO)
+* *[Kali Linux Distro Official Website](https://www.kali.org/)*
+* *[Kali Linux on the Microsoft Store](https://apps.microsoft.com/detail/9pkr34tncv07)*
+* *[Kali Linux GitLab Profile](https://gitlab.com/kalilinux)*
