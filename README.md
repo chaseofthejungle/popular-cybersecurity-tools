@@ -1,6 +1,6 @@
 # Popular Cybersecurity Tools Overview Guide
 
-**TODO:** An overview guide of popular cybersecurity tools/utilities, with reference to Kali Linux.
+**Description/Overview:** [Kali Linux](https://www.kali.org/) is an open-source and free-to-operate Linux distro with an emphasis on offensive penetration testing and digital forensics, with over 600 utilities divided among 14 categories (as outlined in this guide).
 
 #### Table of Contents
 
