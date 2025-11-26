@@ -24,7 +24,13 @@
 
 ## 1. <a name="info">Category: Information Gathering</a>
 
-(TODO)
+*Information gathering* tools assist with scanning, enumerating, performing reconnaissance upon, and footprinting networks. It is a common first step in hacking (and, especially, penetration testing).
+
+**Example tools include:**
+
+* **Nmap:** A network mapper/scanner that discovers network services and hosts and audits security by sending out data packets and analyzing network responses.
+  + **Zenmap:** The official Nmap GUI.
+* **SPARTA:** A Python Graphic User Interface (GUI) network scanner/enumerator that automates various reconnaissance tasks (such as various identifications, including services, hosts, and poor credentials).
 
 <hr />
 
