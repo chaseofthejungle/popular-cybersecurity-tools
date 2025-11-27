@@ -28,15 +28,20 @@
 
 **Example tools include:**
 
-* **Nmap:** A network mapper/scanner that discovers network services and hosts and audits security by sending out data packets and analyzing network responses.
-  + **Zenmap:** The official Nmap GUI.
-* **SPARTA:** A Python Graphic User Interface (GUI) network scanner/enumerator that automates various reconnaissance tasks (such as various identifications, including services, hosts, and poor credentials).
+* [**Nmap:**](https://nmap.org/) A network mapper/scanner that discovers network services and hosts and audits security by sending out data packets and analyzing network responses.
+  + [**Zenmap:**](https://nmap.org/zenmap/) The official Nmap GUI.
+* [**SPARTA:**](https://github.com/SECFORCE/sparta) A Python Graphic User Interface (GUI) network scanner/enumerator that automates various reconnaissance tasks (such as various identifications, including services, hosts, and poor credentials).
 
 <hr />
 
 ## 2. <a name="vulnerability">Category: Vulnerability Analysis</a>
 
-(TODO)
+*Vulnerability analysis* tools help identify weak areas in apps and systems that could be exploited in black hat (unethical) hacking attacks. The vulnerability analysis phase tends to occur after the information gathering phase.
+
+**Example tools include:**
+
+* [**Burp Suite:**](https://portswigger.net/burp) A security testing app and tool suite that serves as a web app proxy to discover vulnerabilities. 
+* [**Nikto:**](https://cirt.net/nikto/) A web server scanner for vulnerability detection.
 
 <hr />
 
